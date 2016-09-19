@@ -7,6 +7,7 @@ And, thus, he was no more.
 
 On Easter morning, Shringeri's family approached his tomb nervously. With tears forming in their eyes, they mourned his death, 
 cursing their unfortunate fates. They turned around and went home. As soon as they were a far enough distance away, Shringeri emerged
+<<<<<<< HEAD
 from his tomb, laughing. His spirit was possessed the god of Bananas.
 
 He slowly turned his head toward his family. The white apparition that once stood in front of them became a red
@@ -15,3 +16,6 @@ shrill of burning became loud enough to burst one's ear drums.
 The flames fully engulfed Shringeri's family, and the fiery spirit grew quiet so as to make the family's screams
 even louder and more horrifying. All that was left was ashes and regret.
 And Bananas.
+=======
+from his tomb, laughing. Beside him was the vengeful spririt of Banana AND DEATH.
+>>>>>>> master
